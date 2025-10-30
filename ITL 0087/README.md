@@ -9,13 +9,21 @@ This repo is designed to hold all the files so access and utilizing the bot is a
 ### Repository Structure 
 
 ITL 0087/
+
 ├── System Memory ITL0087/      # All information required to run the bot
+
 ├── Inclusive_ITL.md            # Documentation 
+
 ├── LICENSE                     # The License
+
 ├── README.md                   # Where you are right now!!
+
 ├── Training.md                 # Prompts to train your own / how to edit it!
+
 ├── Empathy Map                 # Empathy map
+
 ├── User Experience Board       # User experience board
+
 └── Inclusive Design            # Accessability explained!
 
 
