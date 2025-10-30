@@ -16,6 +16,8 @@ PHIL 1612/
 
 ├── README.md                   # Where you are right now!!
 
+├── Training.md                   # Prompts to train your own / how to edit it!
+
 
 
 
