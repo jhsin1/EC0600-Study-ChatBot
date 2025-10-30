@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--Hello digital composer! Welcome to my Elevator Pitch Generator web design tool, powered by Stasis Theory. I'm glad you found it--we're going to adapt a 2,000 year old formula to help you pitch an idea, explaining who you are and what you want, why it's important, and what it will do for your audience. I use this document in my Technical Communications classes at the University of Pittsburgh to teach my students a little bit about rhetoric, and a little bit about computer science. Just follow along and with comments like this, and you will make a really cool web documemt that helps pitch your idea and learn a little bit about coding.
+
+You could make web presentations the easy way by creating a pdf's or powerpoint, or you could do a little more work to better understand these digital tools that you use everyday to (re)present yourself and connect with others in virtual spaces. And this last bit is an important point! If we really want to be makers, if we really want to be creative, then we need to understand our tools and how they work.
+
+In this file, you will work through the four questions of stasis: conjecture, definition, quality, and policy. This method is tried and true, 100% guaranteed to help you say something meaningful about almost anything. While the Greeks originally used it to help them explore questions and issues, and to try to figure out where others might disagree on those issues, the design can easily be adapted to other ends like this one. You should even commit this exercise of stasis to memory. That way, if you are ever stuck on an elevator with someone important...you'll be ready to have something to say. That was indeed the problem for Archimedes, the engineer who built the first elevator in 236BC and afterwards found himself riding in his elevator with all kinds of powerful people, ascending and descending with nothing to say. And for almost two hundred years, the the problem continued to plague the Greeks until the rhetorician Hermagoras solved this communication problem by developing the questions of stasis. Some say it was actually Aristotle, some hundred years pre-elevator, who first theorized the questions of stasis. And much later in the Roman period, Cicero, Quintillian, and Hermogenes added their own iterations.
+
+I like to think about stasis theory in terms of space. Some say the goal of this exercise is stasis, or agreement with the other, but I would argue that the goal of stasis is actually movement. Yes, when we come to stasis, we stop. But we stop only long enough in time/space to assess how we got where we are and what happened before moving forward. I argue that we actually use stasis theory to ready ourselves and others to move with changed velocity (in a new direction and perhaps at a different speed.)
+
+To get started with the Elevator Pitch Generator, you will need to fork my repository from GitHub if you haven't already. If you want to easily publish it on GitHub, I'll give you more information at the end of this document. But for right now, fork, and then download the website to a zip file. Go ahead and put these files in a secure place (folder) where you will be able to find them and organize your other assests like images and pdf's, etcetera. You will also need a text editor like "brackets.io" or "notepad-plus-plus.org." Open the style.css and index.html documents in the text editor and we can get started building our stasis theory web document.
+
+If you are working in groups on GitHub, one group member will need to fork the website in GitHub and then each group members should fork from this new repository.
+
+BTW. You can leave these faded comments be, or delete them. They are but road signs, absent from the larger design-->
+
+<!--Go ahead and change the title of this HTML document from "Elevator Pitch Generator" to whatever you want. This other stuff below the title does important work to help tell different browsers what this page should look like on different screens like cell phones or desktops-->
+
+<head>
+  <title>Study Buddies</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <!--We've added Google Fonts to The Webtext Generator. Go to https://www.w3schools.com/howto/howto_google_fonts.asp to find fonts and add them to this stylesheet link and to the html selector on style.css-->
+  <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+</head>
+
+<body>
+
+  <!--Replace the project title and provide a flashy subtitle. Developers refer to this division as a "Hero Block." You don't need to do anything in this html. code, but you'll need to change the background image on the style.css page. First replace the el1.jpg with a .jpg or .png in the project folder (hint: simplify the name). Then use your text editor to open your style.css sheet, find the hero image, and replace el1.jpg with the name of your new image-->
+
+  <div class="hero-image">
+    <div class="hero-text">
+      <h1>Welcome to Study Buddies</h1>
+      <h2>Ifemi, Pearl, Jessica, Maya</h2>
+    </div>
+  </div>
+
+  <!--in this next section you need to answer the first question of stasis, that of conjecture. What is the problem? Can it be solved?-->
+
+
+  <div class="text-block" style="text-align: left">
+    <h2>Overview / What is it?</h2>
+    <p>Study Buddies is a network of trained Google Gem chatbots that assist students of The University of Pittsburgh in
+      their studies. By training these bots with course content and work, it allows the bot to be acutely accurate to
+      the course the students are taking. A key feature is the ability to add to our current database of 4 bots to allow
+      a larger variety of tutor like assistance for more classes. This feature sets our project apart from other
+      projects
+      as it promotes community as well as positive learning experiences.</p>
+  </div>
+
+  <!--Add more photos to your project folder for a photo grid, making sure the files end in .jpg or .png and replace/add to the names on the grid below on this html file. You can add more images if you wish, or subtract...see what happens--you have to be playful to find out how things work.-->
+  <img class="logo" src="study.png" width="50%" alt="describe the image HERE for accessibility purposes">
+  <div class="caption">
+    <p><i></i></p>
+  </div>
+
+
+  <!--You can't break this thing! Right? Control Z. Comtrol Z. Control Z...-->
+
+  <div class="text-block" style="text-align: left">
+    <h2>Why did we create this?</h2>
+    <p>To further dive into our project we need to explain our start. All of use have noticed that many students use AI
+      chatbots like Chat GPT, which in turn has made them become passive learners. The students rely on these AI
+      chatbots to provide them with direct answers rather than
+      allowing for questioning and error to take place which is how you learn. In order to combat this, we created Study
+      Buddies!
+      Study Buddies allow for the students to learn effectivly and efficently without just being fed the answers.
+    </p>
+    <br>
+    <h2>How we built the bots</h2>
+    <p> </p>
+    <br>
+    <p>It was very important to all of us to maintain as close to 100% accuracy with our bots as possible so we wouldnt
+      accidently confuse our users. To combat this we chose to train all of our bots strictly off of course content
+      provided by the professor. This allowed us to get as close to 100% accuracy without parsing through every
+      document we used to train the bots with. We utilized Google's customizable AI called Google Gems to create our
+      bots. We chose to use Google Gems to allow those who want to contribute to our project, the ease of being able to
+      train a bot so they can add to our network!
+    </p>
+  </div>
+
+
+  <!--Control image properties using CSS frame selector.)-->
+
+  <img class="logo" src="geminiGem.jpg" width="50%" alt="describe the image HERE for accessibility purposes">
+  <div class="caption">
+    <p><i></i></p>
+  </div>
+
+  <div class="text-block" style="text-align: left">
+    <h2>Why use our bots over others?</h2>
+    <p>Study buddy is a super helpful learning tool that can encourage students to use their critical thinking skills
+      and
+      learn how to solve problems efficiently. Our tutor like bot allows a unique back and forth dialouge that you
+      normally only get from speaking to your TA or professor.
+    </p>
+    <br>
+    <p>
+      With our network being entirely online, those who may not have the time to schedule office hours, due to a time
+      conflit or personal conflict, can use this bot at any time of the day, 24/7 granted they have internet access.
+      This can be extremely useful to students who are in classes during their professor's office hours.
+    </p>
+    <br>
+  </div>
+
+
+  <div class="image-container">
+    <img src="interconnected.jpg" alt="describe image here">
+    <div class="image-container-text">
+      <p></p>
+    </div>
+  </div>
+
+
+
+
+  <div class="text-block" style="text-align: left">
+    <h2>Where are we currently?</h2>
+    <p>
+      StudyBuddy is currently starting out with a network of 4 trained and tested bots in a variety of classes!
+    </p>
+    <br>
+    <p>
+      Our 4 bots currently are: Italian Food for Thought (ITL 0087), Black Consciousness (AFRCNA 0787), Intro to Computer Vision (CS 1674), and Philosophy of Physics (PHIL 1612).
+    </p>
+    <br>
+    <p>
+      StudyBuddy will ultimately provide users with another study option where they can actually learn in a positive and flexible enviroment!
+    </p>
+  </div>
+
+
+
+  <div class="text-block" style="text-align: left">
+    <h2>Wanna learn more?</h2>
+    <p>
+      Our link to our GitHub will be linked down below, just click on the github button!
+    </p>
+      <div class="button-box">
+        <a href="https://github.com/jhsin1/EC0600-Study-ChatBot" class="button">Github</a>
+      </div>
+    <br>
+    <h2>Come try it out!</h2>
+    <p>
+      If you want to jump right into our bots, just click the button with the associated class you want to study with!
+    </p>
+      <div class="button-box">
+        <a href="https://gemini.google.com/gem/1KYztv6IroB9IJycoFLKjQDZh1OojZp_S?usp=sharing" class="button">ITL 0087</a>
+        <a href="https://gemini.google.com/share/c58e82c28934" class="button">AFRCNA 0787</a>
+        <a href="https://jhsin1.github.io/600-cv-llama/" class="button">CS 1674</a>
+        <a href="https://gemini.google.com/u/4/gem/d49436bc1c39" class="button">PHIL 1612</a>
+      </div>
+  </div>
+
+
+  <div class="parallax"></div>
+
+
+  <div class="logo">
+    <img src="Study Buddies Logo Design.jpg" alt="brain" style="width:25%;">
+    <p><b>generated by <a href="https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/">Pitt Fuego</a></b></p>
+    <p><em>Why make a spark when you can light a fire?</em></p>
+  </div>
+
+
+  <!--Add footer here-->
+
+</body>
+
+</html>
+
+
+<!--Looking to add components? You've come to the right place. Copy and paste Code Snippets and add to the body section. Adjust class CSS properties on style.css.
+
+
+    ***Add Text block***
+
+    (Format textblock using inline styling: text-align: left, center, justify, right. To improve accessibility, always left-align text longer than three lines; Format text: <i>italics</i>; <b>bold</b>; <u>underline</u>; <mark>highlight</mark>; <sup>superscript</sup>; <sub>subscript</sub>; Link Website: <a href="link">LinkName</a>; Line Breaks: <br></br>;
+
+  <div class="text-block" style="text-align: left">
+    <h2>Header</h2>
+       <p>We recommend using our mobile-ready text sizing. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </div>
+
+
+
+    ***Add Pull Quote***
+
+    (Format text: Italics: <i>italics</i>; Bold: <b>bold</b>. Change font and font size using CSS)
+
+  <div class="pull-quote" style="text-align: center">
+    <h2>Excepteur sint occaecat cupidatat non proident!</h2>
+  </div>
+
+
+
+    ***Bulleted Points or List***
+
+    (Nest within text-block or style using CSS. Change <ul> to <ol> in HTML to switch from unordered list to ordered list.)
+
+  <div>
+    <ul>
+      <li>first</li>
+      <li>second</li>
+      <li>third</li>
+    </ul>
+  </div>
+
+
+
+    ***Add Link that Looks Like a Button***
+
+    (Clearly label link action. For more stylings, find button-box class properties on style.css)
+
+  <div class="button-box">
+    <a href=""https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/"" class="button">Go to Pitt Fuego Tools</a>
+  </div>
+
+
+
+    ***Add CSS Flexbox Container with Placeholder Images***
+
+    (Add or subtract columns. Control column width using CSS.)
+
+  <div class="flexbox-container">
+    <div class="row">
+        <div class="column">
+            <img src="pgrid1.jpg" alt="describe the image HERE for accessibility purposes">
+            <img src="pgrid2.jpg" alt="describe the image HERE for accessibility purposes">
+        </div>
+        <div class="column">
+            <img src="pgrid3.jpg" alt="describe the image HERE for accessibility purposes">
+            <img src="pgrid4.jpg" alt="describe the image HERE for accessibility purposes">
+        </div>
+        <div class="column">
+            <img src="pgrid5.jpg" alt="describe the image HERE for accessibility purposes">
+            <img src="pgrid6.jpg" alt="describe the image HERE for accessibility purposes">
+        </div>
+    </div>
+        <p><i>Add a caption.</i></p>
+  </div>
+
+
+
+    ***Add Image Frame and Filters***
+
+    (Control image width using inline styling. Adjust "frame" class properties using CSS.)
+
+  <img class="frame" src="feet1.jpg" width="50%" alt="describe the image HERE for accessibility purposes">
+    <div class="caption">
+      <p><i>Add a caption</i></p>
+    </div>
+  
+
+
+    ***Add Polaroid***
+
+    (Control image width using CSS.)
+
+  <div class="polaroid">
+    <img src="feet1.jpg" alt="describe the image HERE for accessibility purposes">
+      <div class="polaroid-caption">
+        <p><i>Add a caption</i></p>
+      </div>
+  </div>
+
+
+
+      ***Add Image Container with Text Box***
+
+      (Control Image Container properties using CSS.)
+
+  <div class="image-container">
+    <img src="feet1.jpg" alt="describe image here">
+      <div class="image-container-text">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+  </div>
+
+
+
+    ***Add Parallax Window***
+
+      (Adjust properties using parallax class on style.css)
+
+  <div class="parallax"></div>
+    <div class="caption">
+      <p><i>Add a caption.</i></p>
+  </div>
+
+
+
+    ***Embed YouTube Video***
+
+  <div class="video">
+    <div class="video-container">
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/PhPLTpqG0pU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+       <p><i>Add a caption.</i></p>
+  </div>
+
+
+    ***Add Copyright Footer***
+
+  <div class="footer">
+    <p><i>Copyright Your Name, Year.</i></p>
+  </div>
+
+
+    ***Need something that's not here? Go to https://www.w3schools.com to find all kinds of resources to facilitate your code learning.***
+
+     Peace and love only, Stephen Quigley, University of Pittsburgh, 2021.-->
