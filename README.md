@@ -44,4 +44,4 @@ Ifemi Olojo-Kosoko
 3. Save it in a safe place, i suggest making a folder on your dektop named Study Buddies Network!
 4. Now you can create a folder, please name it your COURSE CODE, for example "ITL 0087"
 5. Now from here you can follow the other examples (the 4 other begining bots) and make similar documentation for them if you want. (I highly suggest you do so others can learn off of you!)
-6. Finally update the README.md in our main folder with your **CLASS NAME**, the [link] below it, as well as *your name* which is the most important! (you want credit for your work right? RIGHT?)
+6. Finally update the README.md in our main folder with your **CLASS NAME**, the [link]() below it, as well as *your name* which is the most important! (you want credit for your work right? RIGHT?)
