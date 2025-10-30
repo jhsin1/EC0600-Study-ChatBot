@@ -24,6 +24,9 @@ Jessica Hsin
 Ifemi Olojo-Kosoko
 
 
+
+
+
 # If you want to add your own follow these steps!
 
 1. You are going to want to click this [Link](https://gemini.google.com/gems/create), it will take you to the Google Gemini Gem creation page!
