@@ -20,13 +20,13 @@ Ifemi - Bot Training / Dataset Prep
 
 Ifemi - User Testing
 
-Development Plan
-Week 1:
+### Development Plan
+**Week 1:**
 
 * Write documentation
 
 * Research for documents to train bot
-Week 2:
+**Week 2:**
 
 * Finish training bot
 
