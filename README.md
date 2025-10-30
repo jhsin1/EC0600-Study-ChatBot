@@ -13,3 +13,11 @@ Pearl Singer - Projecy #5
 
 Maya McCoy - Project #5
 
+# CS 1674
+[Intro to Computer Viion Chatbot](https://jhsin1.github.io/600-cv-llama/)
+
+Jessica Hsin
+
+# PHIL 1612
+[Philosophy of Physics](https://gemini.google.com/u/4/gem/d49436bc1c39)
+Ifemi Olojo-Kosoko
