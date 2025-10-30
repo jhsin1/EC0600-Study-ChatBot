@@ -18,13 +18,8 @@ ITL 0087/
 
 ├── README.md                   # Where you are right now!!
 
-├── Training.md                 # Prompts to train your own / how to edit it!
+└── Training.md                 # Prompts to train your own / how to edit it!
 
-├── Empathy Map                 # Empathy map
-
-├── User Experience Board       # User experience board
-
-└── Inclusive Design            # Accessability explained!
 
 
 ### Project History
