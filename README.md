@@ -6,3 +6,8 @@ EngCmp0600 - Project #5
 
 Pearl Singer - Projecy #5
 
+# AFRCNA 0787-Study-ChatBot
+[Class Homework Helper](https://gemini.google.com/share/c58e82c28934)
+
+Maya McCoy - Project #5
+
