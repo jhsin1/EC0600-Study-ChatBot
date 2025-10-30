@@ -16,3 +16,4 @@ Maya McCoy - Project #5
 # CS 1674
 [Intro to Computer Viion Chatbot](https://jhsin1.github.io/600-cv-llama/)
 
+Jessica Hsin
