@@ -56,11 +56,11 @@ _X_Includes ProcessDescriptionVerification.md
 
 _X_We clearly organized content (Title, headings, paragraphs, sentences, bullet points.)
 
-___We used strong topic sentences
+_X_We used strong topic sentences
 
-___We wrote concisely and used language to guide reader through paragraph content
+_X_We wrote concisely and used language to guide reader through paragraph content
 
-___We used active voice and action verbs
+_X_We used active voice and action verbs
 
 ___We labeled all figures and provided alt-text for all images.  
 
@@ -68,13 +68,13 @@ ___We labeled all figures and provided alt-text for all images.
 
 ## AI Use Verification
 
-___We verified all AI research
+_X_We verified all AI research
 
-___We verified all AI invention
+_X_We verified all AI invention
 
-___We verified all AI drafting
+_X_We verified all AI drafting
 
-___We verified all AI revisions
+_X_We verified all AI revisions
 
  
 
@@ -82,9 +82,9 @@ ___We verified all AI revisions
 
 ****Create a list of all or the ways you used AI to create project assets. Share prompts
 
-AI use:
+AI use: To make the bot itself with Google Gemini Gems
 
-Prompt(s):
+Prompt(s): Check the repository 
 
 AI use:
 
