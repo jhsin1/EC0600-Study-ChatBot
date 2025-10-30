@@ -26,21 +26,30 @@ The chatbot will be trained using specific texts from the course including passa
 ### Team Roles
 
 Pearl - Documentation
+
 Pearl - Bot Training / Dataset Prep
+
 Pearl - User Testing
 
 
 ### Development Plan
 
 *Week 1:*
+
     * Write documentation
+    
     * Research for documents to train bot
+    
 
 
 *Week 2:*
+
     * Finish training bot
+    
     * Test Bot
+    
     * Complete updated Github
+    
 
 
 ### Future Documentation
