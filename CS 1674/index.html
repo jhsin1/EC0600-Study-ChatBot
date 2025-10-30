@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chatbot</title>
+
+  <style>
+    /* Base page styling */
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #f5f0e6; /* soft beige background */
+      font-family: "Inter", "Segoe UI", sans-serif;
+      color: #333;
+    }
+
+    /* Chat container */
+    .chat-widget-container {
+      width: 85vw;
+      max-width: 900px;
+      height: 80vh;
+      background: #fffaf2; /* warm white */
+      border-radius: 16px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: all 0.3s ease;
+    }
+
+    /* Subtle hover animation */
+    .chat-widget-container:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.12);
+    }
+
+    /* Iframe inside the chat container */
+    iframe {
+      border: none;
+      width: 100%;
+      height: 100%;
+      border-radius: 16px;
+    }
+
+    /* Optional heading / brand banner */
+    header {
+      text-align: center;
+      font-size: 1.4rem;
+      font-weight: 600;
+      padding: 1rem;
+      background: linear-gradient(135deg, #f3e6d4, #f8f3ea);
+      color: #444;
+      border-bottom: 1px solid #e6dccb;
+    }
+
+    @media (max-width: 768px) {
+      .chat-widget-container {
+        width: 95vw;
+        height: 85vh;
+        border-radius: 12px;
+      }
+      header {
+        font-size: 1.2rem;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="chat-widget-container">
+    <header>🤖 ENG CMP 0600 Course Chatbot</header>
+    <iframe
+      src="https://dreamsoda-engcmp0600-cv-chatbot.hf.space"
+      title="ENG CMP Chatbot"
+      allow="clipboard-read; clipboard-write"
+    ></iframe>
+  </div>
+</body>
+</html>
