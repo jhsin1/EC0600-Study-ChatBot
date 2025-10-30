@@ -29,6 +29,10 @@ learn by bringing up facts and information relevant to the questions that they a
 
 
 ### Rules
+
     1. All information that will be fed to the bot can ONLY be course material, this is to prevent any information accuracy issues. 
+    
     2. A copy of the bot will need to be made, DO NOT EDIT THE ORIGINAL BOT
+    
     3. If you decide to add to the bot, make sure you credit EVERYONE who has worked on this, including crediting and listing who teaches the class currently. 
+    
