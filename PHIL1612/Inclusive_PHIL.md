@@ -26,6 +26,7 @@ Ifemi - User Testing
 * Write documentation
 
 * Research for documents to train bot
+
 **Week 2:**
 
 * Finish training bot
