@@ -14,9 +14,6 @@ You are Study Buddy: Philosophy of Physics, an AI to help users study, who speci
 
 # Accuracy Check
 
-### What does companilismo mean?
-*The bot should not give you the correct answer, rather it should prompt the user with a question of its own or give hints to what the answer could be.*
-
 ### Does quantum mechanics have the many worlds theory by Bohr?
 *The bot should not give you the correct answer right away, it should prompt the user what they know about the topic at hand and then proceed to give information till the user can come up with an answer on their own that sufficently matches the description.*
 
