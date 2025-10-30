@@ -33,7 +33,7 @@ Ifemi Olojo-Kosoko
 2. Name your Chatbot! If you would like to add to our network please name it NAME OF CLASS then CLASS CODE, for example "Italian Food for Thought, ITL 0087", or something along those lines.
 3. You need to give it a description, you can write your own or copy your course description from your class syllabus!
 4. For its instructions you will want to tell it to act like a tutor and NOT give the user the answer right away. If you need an example check our any of our 4 already made bots, the information should be in the **Training.md** file!
-5. To give your bot *knowledge* you need to give it course material! In order to add to our network we kindly ask you to **ONLY TRIAN THE BOT WITH COURSE MATERIAL** as it makes keeping track of how accurate the bots are much easier!!
+5. To give your bot *knowledge* you need to give it course material! In order to add to our network we kindly ask you to **ONLY TRAIN THE BOT WITH COURSE MATERIAL** as it makes keeping track of how accurate the bots are much easier!!
 6. Your bot is complete!!! Testing is important, so please do it! If you would like to add this bot to our network follow these steps below.
 
 # Adding your bot to this network!
