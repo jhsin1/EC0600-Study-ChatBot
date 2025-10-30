@@ -1,4 +1,4 @@
-# Philosophy of Physics Chatbot
+# Philosophy of 20th Century Physics Chatbot
 
 
 ### Purpose
